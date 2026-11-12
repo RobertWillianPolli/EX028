@@ -70,7 +70,7 @@ O display apresenta:
 ```text
 EX028/
 │
-├── RoteiroV2.pdf
+├── BitDogBeats - RoteiroV2.pdf
 ├── README.md
 └── src/
      │
@@ -81,7 +81,7 @@ EX028/
 - `main.py`: código principal de aquisição e apresentação das medições.
 - `sh1107.py`: biblioteca de controle do display OLED.
 - `README.md`: documentação do projeto.
-- `RoteiroV2.pdf`: Roteiro utilizado em sala
+- `BitDogBeats - RoteiroV2.pdf`: Roteiro utilizado em sala
 
 ## 🚀 Como executar
 
