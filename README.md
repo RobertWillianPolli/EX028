@@ -33,6 +33,8 @@ O projeto foi desenvolvido em **MicroPython**, utilizando:
 - `utime`: controle de temporização e medição em microssegundos.
 - `sh1107`: biblioteca para comunicação com o display OLED SH1107.
 
+- Interpretador: [Thonny IDE](https://thonny.org/)
+
 ## ⚙️ Funcionamento
 
 O programa executa continuamente as seguintes etapas:
